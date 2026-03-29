@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="id">
 <head>
     <meta charset="UTF-8">
@@ -127,8 +127,7 @@
             </div>
             
             <!-- Scroll Indicator -->
-            <div class="mt-14 animatle">
-                <p class="text-pink-400 text-sm mb-2">Scroll untuk melihat lebih</p>
+            <div class="mt-14         <p cmt-14"text-pink-400 text-sm mb-2">Scroll untuk melihat lebih</p>
                 <i data-lucide="chevrons-down" class="w-8 h-8 text-pink-400 mx-auto"></i>
             </div>
         </div>
